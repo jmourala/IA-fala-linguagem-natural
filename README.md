@@ -35,4 +35,4 @@ Este projeto é apenas demonstrativo e não possui código executável.
 Este desafio foi uma excelente oportunidade para explorar soluções de IA voltadas para linguagem e fala, além de reforçar boas práticas de documentação e uso do GitHub.
 
 ---
-(** Contei com a ajuda do Capilot para criar esse modelo de repositório)
+(** Contei com a ajuda do Copilot para criar esse modelo de repositório)
